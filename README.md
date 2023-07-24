@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+[![Build status](https://ci.appveyor.com/api/projects/status/v3m48hf9s0almqt2?svg=true)](https://ci.appveyor.com/project/EGalanin/ra-hw-1-cc)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
